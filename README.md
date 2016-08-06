@@ -1,7 +1,7 @@
 # homework-wireframe
 
 
-## Week 1 (Easier) Assignment - Building a Wireframe
+## Week 1 Assignment - Building a Wireframe
 
 ### Overview
 In this assignment, you will build a web design skeleton using HTML/CSS. Your completed work should look just like the image below:
