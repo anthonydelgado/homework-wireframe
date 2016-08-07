@@ -21,14 +21,15 @@ header, nav, section, aside, footer {
 
 section {
   float: left;
-  width: 70%;
+  width: 660px;
   margin-bottom: 15px;
   height: 300px;
 }
 aside {
-  float: right;
-  width: 25%;
+  float: left;
+  width: 255px;
   height: 300px;
+  margin-left: 15px;
 }
 
 footer {
@@ -38,6 +39,7 @@ article {
   background-color: $body-background;
   color: $content-background;
   padding: 15px;
+  margin-top: 15px;
   h1, h2, h3 {
     display: inline-block;
     font-size: 20px;
