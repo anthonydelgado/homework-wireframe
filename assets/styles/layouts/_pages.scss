@@ -34,6 +34,7 @@ aside {
 
 footer {
   clear: both;
+  margin-bottom: 15px;
 }
 article {
   background-color: $body-background;
@@ -49,5 +50,19 @@ article {
     color: $body-background;
     padding: 15px;
     margin-top: 15px;
+  }
+}
+
+@media (max-width: 960px) {
+  aside, section {
+    width: 100%;
+  }
+  aside {
+    margin-top: 0;
+    margin-left: 0;
+    margin-bottom: 15px;
+  }
+  .container {
+    width: 100%;
   }
 }
